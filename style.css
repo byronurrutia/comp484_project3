@@ -185,3 +185,11 @@ body {
   color: white;
   background-color: #e95d0f;
 }
+
+.win-banner {
+  text-align: center;
+  background-color: #ededed;
+  padding: 0.25em;
+  margin: 1em;
+  display: none;
+}
